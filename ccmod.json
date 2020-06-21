@@ -1,0 +1,7 @@
+{
+  "id": "title-music",
+  "description": "Old title music ftw",
+  "version": "2.0.0",
+  "prestart": "prestart.js"
+}
+
